@@ -7,6 +7,17 @@
 
 3. **Contacto y Contribuciones**: Actualiza la sección de contacto con tu información real y añade detalles adicionales para las contribuciones si es necesario.
 
+anonmix-blockchain/
+├── blockchain.py
+├── mixer.py
+├── transaction.py
+├── user.py
+├── consensus.py
+├── main.py
+├── requirements.txt
+└── README.md
+
+
 ### Subir a GitHub
 
 1. **Crear Repositorio**: Ve a GitHub y crea un nuevo repositorio llamado `anonmix-blockchain`.
